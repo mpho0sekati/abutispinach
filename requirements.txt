@@ -68,7 +68,7 @@ google-resumable-media==2.7.0
 googleapis-common-protos==1.63.0
 gptcache==0.1.43
 gradio
-gradio_client==0.16.0
+gradio_client
 greenlet==3.0.3
 grpc-google-iam-v1==0.13.0
 grpcio==1.62.2
@@ -241,5 +241,5 @@ wrapt==1.16.0
 wsproto==1.2.0
 yarl==1.9.4
 youtube-transcript-api==0.6.2
-yt-dlp==2023.12.30
+yt-dlp
 zipp==3.18.1
